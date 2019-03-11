@@ -1,0 +1,27 @@
+p.copyright{
+  text-align:center;
+}
+
+div.jumbotron{
+  background-image:url(https://images.unsplash.com/photo-1487466365202-1afdb86c764e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=87c82fa7b9afee7515cc691d6704f902&auto=format&fit=crop&w=1052&q=80s);
+  background-repeat:no-repeat;
+  background-position:center;
+  background-size:cover;
+}
+
+h1{
+  color:white;
+}
+
+h1.title{
+  color:white;
+}
+
+p.subpara{
+  color:white;
+}
+img.logo{
+
+  height: 30px;
+  width: 30px;
+}
